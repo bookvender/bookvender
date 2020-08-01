@@ -1,4 +1,4 @@
-<p align="center"><img width=12.5% src="https://github.com/bookvender/bookvender/blob/master/media/logo.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/bookvender/bookvender/blob/master/media/collage.jpg"></p>
 
 <br>
 <br>
