@@ -1,4 +1,4 @@
-<p align="center"><img width=12.5% src="https://github.com/bookvender/bookvender/blob/master/media/collage.jpg"></p>
+<p align="center"><img width=12.5% src="https://github.com/bookvender/bookvender/blob/master/media/logo.png"></p>
 
 <br>
 <br>
@@ -12,7 +12,7 @@
 ## Basic Overview
 
 Using stock historical data, train a supervised learning algorithm with any combination of financial indicators. Rapidly backtest your model for accuracy and simulate investment portfolio performance. 
-<p align="center"><img width=95% height=50% src="https://github.com/bookvender/bookvender/blob/master/media/buy.jpg"></p>
+<p align="center"><img width=95% height=50% src="https://github.com/bookvender/bookvender/blob/master/media/collage.jpg"></p>
 
 <br>
 
