@@ -6,6 +6,8 @@
 
 ![Java](https://img.shields.io/badge/java-SE8-blue.svg)
 ![Android](https://img.shields.io/badge/android-minapi19-green.svg)
+![MySql](https://img.shields.io/badge/MySql-8.0-orange.svg)
+![php](https://img.shields.io/badge/php-7.2.32-yellow.svg)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ## Overview
