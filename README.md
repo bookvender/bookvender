@@ -57,6 +57,11 @@ The whole app is supported in the native language हिन्दी .
 <br>
 <br>
 
+## Note for Recruiters
+The Backend of this app is supported by MySQL and the REST APIs are made in php.
+<br>
+The complete backend service is programmed and managed by Raghav Sharma.
+
 ## Contact
 
 ![Phone](https://img.shields.io/badge/phone-+918619146262-blue.svg)
