@@ -52,7 +52,11 @@ The whole app is supported in the native language हिन्दी .
 - Feedback
 - Help/FAQs
 - Multiple Categories and Subcategories of Books
+<br>
+<br>
 
+## Contact
 
-
-
+![Phone](https://img.shields.io/badge/phone-+918619146262-blue.svg)
+[![Instagram](https://img.shields.io/badge/instagram-codely.yours-blue.svg)](https://www.instagram.com/codely.yours/)
+[![Linkedin](https://img.shields.io/badge/linkedin-raghavsharma-blue.svg)](https://www.linkedin.com/in/raghav-sharma-b52b59158/)
